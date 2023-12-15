@@ -1,0 +1,12 @@
+{
+  "name": "k6-test",
+  "version": "1.0.0",
+  "description": "k6 load test for demo services",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

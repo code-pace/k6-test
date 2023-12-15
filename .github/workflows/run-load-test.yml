@@ -1,0 +1,10 @@
+name: Run load test
+  on: 
+    push:
+      branches: [snapshot]
+  jobs:
+    runs-on: ubuntu-latest
+    run_load_test:
+      steps:
+        - name: Get service branch
+        - uses: 
